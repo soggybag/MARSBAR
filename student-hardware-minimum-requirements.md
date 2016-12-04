@@ -23,3 +23,7 @@ Students in the program need to have hardware that isn't holding them back.
 Student hardware should be assessed **before** students begin classes. Students that can afford 
 new hardware will be asked to upgrade. Students who can't might be able checkout MS hardware or 
 get financial aid to help upgrade.
+
+### Shannon says:
+
+My 2010 Macbook Pro 17 wit i7 dual core, 8gb of RAM (cannot be expanded sadly), and a 480GB SSD still romps and stomps.  If possible 16GB is useful to have lots of Chrome tabs open.  But the SSD is the key to a fast machine these days.  Cost is not too painful at aroudn $140 for a 500GB SSD.  I see some students using macbook airs and wonder how that is adequate when most only have 128GB of SSD.  I've had to recommend USB flash drives for extra space.  256GB should be the minumum space available for a dev
